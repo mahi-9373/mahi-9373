@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="1024" height="1024" alt="profile-pic" src="https://github.com/user-attachments/assets/39c3cc58-d9ba-4808-aaa6-f1adf8858c40" />
+
 👋 Hi there, Welcome!
 
 Hello! I'm Mahesh Joshi
